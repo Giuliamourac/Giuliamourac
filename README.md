@@ -60,7 +60,7 @@ Olá, eu sou a Giulia, tenho 19 anos e moro em Santos-SP e atualmente estou curs
     align="left" 
     alt="GitHub Stats" 
     height="200"         
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliamourac&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=4" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliamourac&theme=tokyonight&layout=compact&custom_title=Linguagens" 
 />
 
 </p>
