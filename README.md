@@ -39,7 +39,7 @@ Olá, eu sou a Giulia, tenho 19 anos e moro em Santos-SP e atualmente estou curs
     title="C#"
     width="30px"
     style="padding-right: 10px;" 
-    src="https://gist.github.com/johndward01/95c1d09de9e3707cfb4154989962376d.js"
+    src="https://gist.github.com/johndward01/95c1d09de9e3707cfb4154989962376d.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 
 <br/>
