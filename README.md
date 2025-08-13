@@ -45,8 +45,6 @@ Olá, eu sou a Giulia, tenho 19 anos e moro em Santos-SP e atualmente estou curs
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
 <p>
 <img 
     align="left" 
