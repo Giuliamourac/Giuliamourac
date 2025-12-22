@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas para Internet`**
 
-Olá, eu sou a Giulia, tenho 19 anos e moro em Santos-SP e atualmente estou cursando Sistemas para Internet (S.I) na Fatec Baixada Santista Rubens Lara. Desde pequena sempre tive interesse na área de programação, e isso tem me levado a explorar mais afundo novas linguagens. 
+Olá, eu sou a Giulia, tenho 20 anos e moro em Santos-SP e atualmente estou cursando Sistemas para Internet (S.I) na Fatec Baixada Santista Rubens Lara. Desde pequena sempre tive interesse na área de programação, e isso tem me levado a explorar mais afundo novas linguagens. 
 
 ### 🤖 Linguagens e Tecnologias
 
