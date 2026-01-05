@@ -1,6 +1,6 @@
 ## Giulia Moura 👋
 
-**`Estudante de Sistemas para Internet`**
+**`Internet Systems Student`**
 
 Hello! My name is Giulia, I am 20 years old and I live in Santos, São Paulo, Brazil. I am currently studying Internet Systems (S.I.) at Fatec Baixada Santista Rubens Lara. Since I was young, I've always been interested in the field of programming, and this has led me to explore new languages more deeply.
 
