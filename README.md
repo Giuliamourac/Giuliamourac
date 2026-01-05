@@ -2,9 +2,9 @@
 
 **`Estudante de Sistemas para Internet`**
 
-Olá, eu sou a Giulia, tenho 20 anos e moro em Santos-SP e atualmente estou cursando Sistemas para Internet (S.I) na Fatec Baixada Santista Rubens Lara. Desde pequena sempre tive interesse na área de programação, e isso tem me levado a explorar mais afundo novas linguagens. 
+Hello! My name is Giulia, I am 20 years old and I live in Santos, São Paulo, Brazil. I am currently studying Internet Systems (S.I.) at Fatec Baixada Santista Rubens Lara. Since I was young, I've always been interested in the field of programming, and this has led me to explore new languages more deeply.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -72,3 +72,11 @@ Olá, eu sou a Giulia, tenho 20 anos e moro em Santos-SP e atualmente estou curs
 />
 
 </p>
+
+
+### 💻 My Studies
+
+-[C#](https://github.com/Giuliamourac/Estudos-C-sharp.git)
+-[C++](https://github.com/Giuliamourac/Estudos-Cpp.git)
+-[JavaScript](https://github.com/Giuliamourac/Estudos-JavaScript.git)
+-[HTML & CSS](https://github.com/Giuliamourac/Estudos-Html-CSS.git)
