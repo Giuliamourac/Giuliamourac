@@ -56,7 +56,7 @@ Hello! My name is Giulia, I am 20 years old and I live in Santos, São Paulo, Br
 
 ### 💻 My Studies
 
--[C#](https://github.com/Giuliamourac/Estudos-C-sharp.git)
--[C++](https://github.com/Giuliamourac/Estudos-Cpp.git)
--[JavaScript](https://github.com/Giuliamourac/Estudos-JavaScript.git)
--[HTML & CSS](https://github.com/Giuliamourac/Estudos-Html-CSS.git)
+- [C#](https://github.com/Giuliamourac/Estudos-C-sharp.git)
+- [C++](https://github.com/Giuliamourac/Estudos-Cpp.git)
+- [JavaScript](https://github.com/Giuliamourac/Estudos-JavaScript.git)
+- [HTML & CSS](https://github.com/Giuliamourac/Estudos-Html-CSS.git)
