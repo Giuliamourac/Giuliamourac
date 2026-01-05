@@ -53,6 +53,24 @@ Hello! My name is Giulia, I am 20 years old and I live in Santos, São Paulo, Br
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    />
+    
+  <img 
+      align="left"
+      alt="Github"
+      title="Github"
+      width="30px"
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      />
+
 <br>
 
 ---
