@@ -4,6 +4,8 @@
 
 Hello! My name is Giulia, I am 20 years old and I live in Santos, São Paulo, Brazil. I am currently studying Internet Systems (S.I.) at Fatec Baixada Santista Rubens Lara. Since I was young, I've always been interested in the field of programming, and this has led me to explore new languages more deeply.
 
+---
+
 ### 🤖 Languages & Technologies
 
 <img 
@@ -51,8 +53,7 @@ Hello! My name is Giulia, I am 20 years old and I live in Santos, São Paulo, Br
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 
-<br/>
-<br/>
+---
 
 ### 💻 My Studies
 
