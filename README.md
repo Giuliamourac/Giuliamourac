@@ -54,6 +54,7 @@ Hello! My name is Giulia, I am 20 years old and I live in Santos, São Paulo, Br
 />
 
 <br>
+
 ---
 
 ### 💻 My Studies
