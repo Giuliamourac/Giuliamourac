@@ -54,26 +54,6 @@ Hello! My name is Giulia, I am 20 years old and I live in Santos, São Paulo, Br
 <br/>
 <br/>
 
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Giuliamourac&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-</p>
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"         
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliamourac&theme=tokyonight&layout=compact&custom_title=Linguagens" 
-/>
-
-</p>
-
-
 ### 💻 My Studies
 
 -[C#](https://github.com/Giuliamourac/Estudos-C-sharp.git)
